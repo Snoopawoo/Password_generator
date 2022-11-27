@@ -20,7 +20,7 @@ By visiting the site, you can use the generator to get a password, following a s
 User Guide:
 ![Alt text](assets/images/user_example.jpg?raw=true "Guide")
 
-Page : 
+Page : https://snoopawoo.github.io/Password_generator/
 
 ## Credits
 
